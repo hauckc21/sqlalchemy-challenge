@@ -175,30 +175,6 @@ def start_end_date(start, end):
     
     return jsonify(temp_stats_data)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #------------------------------------------------
 
 if __name__ == '__main__':
